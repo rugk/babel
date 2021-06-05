@@ -10,7 +10,7 @@
     "@babel/plugin"
   ],
   "dependencies": {
-    "@babel/plugin-syntax-object-rest-spread": "7.0.0-beta.53"
+    "@babel/plugin-syntax-object-rest-spread": "7.8.3"
   },
   "peerDependencies": {
     "@babel/core": ">=7.0.0-beta.50 <7.0.0-rc.0"
